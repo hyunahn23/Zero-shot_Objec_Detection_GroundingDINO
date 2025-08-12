@@ -7,4 +7,4 @@ Grounding DINO를 활용한 제로샷 객체 검출 모델: 텍스트 설명을 
 ![Result GIF](https://raw.githubusercontent.com/hyunahn23/Zero-shot_Objec_Detection_GroundingDINO/main/result/gdino_result.png)
 ![Result GIF](https://raw.githubusercontent.com/hyunahn23/Zero-shot_Objec_Detection_GroundingDINO/main/result/gdino_result2.png)
 ![Result GIF](https://raw.githubusercontent.com/hyunahn23/Zero-shot_Objec_Detection_GroundingDINO/main/result/gdino_result3.png)
-![Result GIF](https://raw.githubusercontent.com/hyunahn23/Zero-shot_Objec_Detection_GroundingDINO/main/result/result.mp4)
+![Result GIF](https://raw.githubusercontent.com/hyunahn23/Zero-shot_Objec_Detection_GroundingDINO/main/result/result.gif)
